@@ -3,6 +3,8 @@
 可以简单的自定义Hook，如方法返回值、方法参数、拦截执行
 扩展hook：可以获取常见算法的信息、toast、dialog调用堆栈等
 
+[使用说明](https://github.com/littleWhiteDuck/SimpleHookShare)
+
 # simpleHook使用说明
 
 > [simpleHook.apk](https://wwp.lanzoub.com/b0177tlri)(密码：simple)
@@ -301,4 +303,6 @@ public class Example{
 
 ### 5.需要本软件挂后台才能使用
 
-> 你可能没有打开 开启储存权限写入配置（重新保存或开关配置设置页顶）
+> 你可能没有打开 开启储存权限写入配置（设置页顶部）
+>
+> 打开后记得手动刷新配置（重新保存或开关配置）
